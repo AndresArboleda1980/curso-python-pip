@@ -2,7 +2,8 @@ import utils
 import read_csv
 import charts
 import pandas as pd
-
+from fastapi import FastAPI
+app = FastAPI()
 
 def run():
 #realizamos la logica del archivo mediante pandas
