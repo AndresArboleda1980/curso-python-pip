@@ -1,0 +1,5 @@
+name: pyspark
+channels:
+  - conda-forge
+dependencies:
+  - openjdk
