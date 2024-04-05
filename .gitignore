@@ -238,3 +238,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,python
+
+#Ignorar archivo .sh
+Anaconda3-2020.02-Linux-x86_64.sh
